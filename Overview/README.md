@@ -4,7 +4,7 @@ This folder contains the foundational document of HanFlow.
 
 ## HanFlow Practice Framework
 
-- [HanFlow Practice Framework Overview PDF]
+- [HanFlow Practice Framework Overview PDF](./HanFlow_Practice_Framework_Overview.pdf)  
   DOI: https://doi.org/10.5281/zenodo.18639330  
   ORCID: https://orcid.org/0009-0004-3176-4764
 
