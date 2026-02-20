@@ -4,19 +4,14 @@ Quiet explorations of embodied presence, yielding, rhythmic time, and gentle sel
 
 ## Core Folders
 
-- **[Overview / 总纲](https://github.com/zhenjiangzhi/HanFlow-Reflections/tree/main/Overview)**  
-  Foundational framework and overview document.  
-  [HanFlow Practice Framework Overview PDF](./Overview/HanFlow_Practice_Framework_Overview.pdf)  
-  DOI: https://doi.org/10.5281/zenodo.18639330
-  ORCID: https://orcid.org/0009-0004-3176-4764
+- **[Overview / 总纲](./Overview)**  
+  Foundational framework and overview document.
 
-- **[Tai Chi Series / 太极系列](https://github.com/zhenjiangzhi/HanFlow-Reflections/tree/main/TaiChi)** – 7 Essays  
-  Mindful movement and presence in daily life.  
-  (Files will be added here)
+- **[Tai Chi Series / 太极系列](./TaiChi%20Series)** – 7 Essays  
+  Mindful movement and presence in daily life.
 
-- **[Tuina Series / 推拿系列](https://github.com/zhenjiangzhi/HanFlow-Reflections/tree/main/Tuina)** – 7 Essays  
-  Attentive touch and embodied dialogue.  
-  (Files will be added here)
+- **[Tuina Series / 推拿系列](./Tuina%20Series)** – 7 Essays  
+  Attentive touch and embodied dialogue.
 
 All content licensed under CC BY 4.0.  
 More at: https://www.hanflow365.com
