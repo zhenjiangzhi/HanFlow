@@ -14,7 +14,7 @@ Quiet explorations of embodied presence, yielding, rhythmic time, and gentle sel
   Mindful movement and presence in daily life.  
   (Files will be added here)
 
-- **[Tuina Series / 推拿系列](https://github.com/zhenjiangzhi/HanFlow-Reflections/tree/main/Tuina)** – 6 Essays  
+- **[Tuina Series / 推拿系列](https://github.com/zhenjiangzhi/HanFlow-Reflections/tree/main/Tuina)** – 7 Essays  
   Attentive touch and embodied dialogue.  
   (Files will be added here)
 
