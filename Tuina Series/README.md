@@ -9,10 +9,7 @@
 Your body isn't a machine to be fixed — it's a conversation partner waiting to be heard.
 
 **Core ideas**  
-The essay shows how attentive touch in Tuina reconnects us to our body’s own intelligence, moving from trying to fix to learning to listen.
-
-**Real-world application**  
-Try placing a hand on a tense area for a minute — just feel and notice.
+Attentive touch in Tuina reconnects us to the body’s own intelligence.
 
 **PDF:** [01_Tuina_Essay_I.pdf](01_Tuina_Essay_I.pdf)  
 
@@ -24,13 +21,10 @@ DOI: https://doi.org/10.5281/zenodo.18678147
 
 ## Essay II — From Control to Cooperation: Rethinking the Modern Relationship with the Body
 **Plain description**  
-Examines shifting from managing the body through discipline to cooperating with its natural intelligence.
+Examines shifting from controlling the body to cooperating with it.
 
 **Core ideas**  
-Highlights the hidden cost of control and the benefits of attentive, relational self-care.
-
-**Real-world application**  
-Notice where you “push” your body and try shifting to curiosity and listening.
+Focuses on attentive, relational self-care rather than forcing change.
 
 **PDF:** [02_Tuina_Essay_II.pdf](02_Tuina_Essay_II.pdf)  
 
@@ -42,13 +36,10 @@ DOI: https://doi.org/10.5281/zenodo.18678265
 
 ## Essay III — Why Ancient Cultures Thought in Seasons, Not Schedules
 **Plain description**  
-Explores rhythm-based living rather than strict schedules for better body alignment and wellbeing.
+Explores living in rhythm with seasonal and bodily cycles.
 
 **Core ideas**  
-Emphasizes harmonizing with natural cycles and body rhythm rather than rigid routines.
-
-**Real-world application**  
-Observe where you force consistency and instead allow subtle variations in your week.
+Encourages harmonizing with natural rhythms rather than rigid schedules.
 
 **PDF:** [03_Tuina_Essay_III.pdf](03_Tuina_Essay_III.pdf)  
 
@@ -65,9 +56,6 @@ Shows the power of touch in recovering presence and sensory awareness.
 **Core ideas**  
 Touch is foundational for embodied attention; modern life has diminished it.
 
-**Real-world application**  
-Simply notice where your body contacts surfaces — feel without doing anything else.
-
 **PDF:** [04_Tuina_Essay_IV.pdf](04_Tuina_Essay_IV.pdf)  
 
 **Citation:**  
@@ -78,13 +66,10 @@ DOI: https://doi.org/10.5281/zenodo.18678315
 
 ## Essay V — When Touch Ceases to Be a Practice and Becomes a Way of Attending
 **Plain description**  
-Reflects on how attentive touch can permeate everyday life.
+Attentive touch becomes integrated into daily life.
 
 **Core ideas**  
-Practice becomes lived quality — the body informs daily experience, not just training.
-
-**Real-world application**  
-Notice ordinary touch throughout the day, with awareness and presence.
+Practice dissolves into lived attention and presence.
 
 **PDF:** [05_Tuina_Essay_V.pdf](05_Tuina_Essay_V.pdf)  
 
@@ -96,13 +81,10 @@ DOI: https://doi.org/10.5281/zenodo.18678338
 
 ## Essay VI — When We Stop Forcing the Body, We Also Stop Forcing Life
 **Plain description**  
-Explores how the quality of attention cultivated in Tuina extends to life beyond the body.
+Attention cultivated in Tuina extends to life beyond the body.
 
 **Core ideas**  
-Attentive, receptive awareness improves our relationship with work, others, and time.
-
-**Real-world application**  
-Pause before acting in situations you feel compelled to force; notice and respond from presence.
+Receptive awareness improves relationships with work, others, and time.
 
 **PDF:** [06_Tuina_Essay_VI.pdf](06_Tuina_Essay_VI.pdf)  
 
@@ -114,13 +96,10 @@ DOI: https://doi.org/10.5281/zenodo.18678347
 
 ## Essay VII — The Complete Arc: From Dictation to Dialogue
 **Plain description**  
-Completes the journey from body as object to body as home, from forcing to companionship.
+Completes the journey from body as object to body as home.
 
 **Core ideas**  
-Relationship, not technique, is the ultimate outcome; living and listening become integrated.
-
-**Real-world application**  
-Pause, feel your body, notice your presence — no instruction, just being.
+Living, listening, and relationship become the ultimate practice.
 
 **PDF:** [07_Tuina_Essay_VII.pdf](07_Tuina_Essay_VII.pdf)  
 
