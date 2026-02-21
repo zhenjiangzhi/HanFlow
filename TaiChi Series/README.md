@@ -1,115 +1,108 @@
-# Tai Chi Series / 太极系列 - 7 Essays
+# TaiChi Series / 太极系列
 
-This series explores mindful movement and presence in daily life through Tai Chi practice. Each essay includes a brief description, core ideas, and a link to the PDF.
+探索日常生活中柔和的身体练习与觉察，每篇文章均可点击 PDF 阅读全文。
 
 ---
 
 ## Essay I — The Paradox of Yielding: Why 'Non-Resistance' Is the Highest Form of Efficacy
-
-**Plain description:**  
+**Plain description**  
 This essay explores how the Tai Chi principle of yielding offers a powerful alternative to our default mode of pushing harder against challenges.
 
-**Core ideas:**  
-We’re taught to meet force with force — to resist, to overcome, to stand our ground. But this rigid stance often leads to exhaustion, both in our bodies and in life. Drawing from push-hands practice, yielding is not weakness but a highly alert, strategic way of engaging with pressure.
+**Core ideas**  
+Yielding is not weakness — it’s a strategic way of engaging with pressure, listening first, then responding efficiently.
 
-**PDF:** [01_Essay_I_The_Paradox_of_Yielding.pdf](01_Essay_I_The_Paradox_of_Yielding.pdf)
+**PDF:** [01_TaiChi_Essay_I.pdf](01_TaiChi_Essay_I.pdf)  
 
 **Citation:**  
 Zhi, Z. (2026). Essay I — The Paradox of Yielding: Why 'Non-Resistance' Is the Highest Form of Efficacy. Zenodo.  
-DOI: [10.5281/zenodo.18639607](https://doi.org/10.5281/zenodo.18639607)
+DOI: https://doi.org/10.5281/zenodo.18639607
 
 ---
 
 ## Essay II — The Art of Centering: Finding Dynamic Balance in a World of Flux
+**Plain description**  
+A look at what “center” really means in Tai Chi practice and its application to daily life.
 
-**Plain description:**  
-A look at what “center” really means in Tai Chi practice, and how it can help us navigate the either/or choices that pull us apart.
+**Core ideas**  
+Centering helps navigate competing forces, maintaining presence and balance.
 
-**Core ideas:**  
-Modern life forces us into binaries: career or family, logic or emotion, ambition or contentment. Tai Chi “centering” is a dynamic, responsive state holding opposing forces in creative tension, translating into everyday life balance.
-
-**PDF:** [02_Essay_Il_The_Art_of_Centering.pdf](02_Essay_Il_The_Art_of_Centering.pdf)
+**PDF:** [02_TaiChi_Essay_II.pdf](02_TaiChi_Essay_II.pdf)  
 
 **Citation:**  
 Zhi, Z. (2026). Essay II — The Art of Centering: Finding Dynamic Balance in a World of Flux. Zenodo.  
-DOI: [10.5281/zenodo.18640121](https://doi.org/10.5281/zenodo.18640121)
+DOI: https://doi.org/10.5281/zenodo.18640121
 
 ---
 
 ## Essay III — The Enduring Revolution: Revaluing the 'Process'
+**Plain description**  
+Invites appreciation for the process itself, rather than fixating on goals.
 
-**Plain description:**  
-This piece questions our obsession with goals and destinations, and invites a deeper appreciation for the process itself.
+**Core ideas**  
+Tai Chi emphasizes attention to each movement over achieving forms.
 
-**Core ideas:**  
-Tai Chi practice emphasizes progress in the quality of attention rather than product. Learning to value process over product allows presence in every breath, step, and movement.
-
-**PDF:** [03_Essay_III_The_Enduring_Revolution.pdf](03_Essay_III_The_Enduring_Revolution.pdf)
+**PDF:** [03_TaiChi_Essay_III.pdf](03_TaiChi_Essay_III.pdf)  
 
 **Citation:**  
 Zhi, Z. (2026). Essay III — The Enduring Revolution: Revaluing the 'Process'. Zenodo.  
-DOI: [10.5281/zenodo.18640176](https://doi.org/10.5281/zenodo.18640176)
+DOI: https://doi.org/10.5281/zenodo.18640176
 
 ---
 
 ## Essay IV — Action in Inaction: When 'Not-Doing' Holds More Possibility Than 'Frenzy'
+**Plain description**  
+Explores wu wei — effortless action — and strategic stillness.
 
-**Plain description:**  
-An exploration of the Taoist concept of wu wei (effortless action) and how strategic stillness can be more powerful than frantic doing.
+**Core ideas**  
+Not-doing can be a form of deep intelligence, gathering perception before acting.
 
-**Core ideas:**  
-The space between movements is a field of perception. Pausing before acting allows action to arise more cleanly, precisely, and with less wasted energy.
-
-**PDF:** [04_Essay_IV_Action_in_Inaction.pdf](04_Essay_IV_Action_in_Inaction.pdf)
+**PDF:** [04_TaiChi_Essay_IV.pdf](04_TaiChi_Essay_IV.pdf)  
 
 **Citation:**  
 Zhi, Z. (2026). Essay IV — Action in Inaction: When 'Not-Doing' Holds More Possibility Than 'Frenzy'. Zenodo.  
-DOI: [10.5281/zenodo.18640205](https://doi.org/10.5281/zenodo.18640205)
+DOI: https://doi.org/10.5281/zenodo.18640205
 
 ---
 
 ## Essay V — Bridge: When Stillness Begins to Move
+**Plain description**  
+Explores bridging the quality of stillness into motion.
 
-**Plain description:**  
-A short transitional piece asking: how do we carry the quality of attentive stillness into motion?
+**Core ideas**  
+Maintaining attentive presence as life and movement unfold.
 
-**Core ideas:**  
-Maintaining centeredness while moving integrates awareness into action, bridging stillness and motion in daily life.
-
-**PDF:** [05_Essay_V_Bridge_When_Stillness_Begins_to_Move.pdf](05_Essay_V_Bridge_When_Stillness_Begins_to_Move.pdf)
+**PDF:** [05_TaiChi_Essay_V.pdf](05_TaiChi_Essay_V.pdf)  
 
 **Citation:**  
 Zhi, Z. (2026). Essay V — Bridge: When Stillness Begins to Move. Zenodo.  
-DOI: [10.5281/zenodo.18640235](https://doi.org/10.5281/zenodo.18640235)
+DOI: https://doi.org/10.5281/zenodo.18640235
 
 ---
 
 ## Essay VI — Tai Chi: Presence in Motion
+**Plain description**  
+Examines full awareness in movement and embodied presence.
 
-**Plain description:**  
-This essay unpacks what it actually feels like to move with full awareness — letting the body’s rhythm anchor a quiet mind.
+**Core ideas**  
+Using the body as an anchor for mindfulness in daily life.
 
-**Core ideas:**  
-Through slow, continuous forms, the body becomes a language of sensation. Attention becomes unified presence.
-
-**PDF:** [06_Essay_VI_Presence_in_Motion.pdf](06_Essay_VI_Presence_in_Motion.pdf)
+**PDF:** [06_TaiChi_Essay_VI.pdf](06_TaiChi_Essay_VI.pdf)  
 
 **Citation:**  
 Zhi, Z. (2026). Essay VI — Tai Chi: Presence in Motion. Zenodo.  
-DOI: [10.5281/zenodo.18640270](https://doi.org/10.5281/zenodo.18640270)
+DOI: https://doi.org/10.5281/zenodo.18640270
 
 ---
 
 ## Essay VII — Tai Chi as a Way of Living Attention
+**Plain description**  
+Considers how Tai Chi dissolves into everyday awareness.
 
-**Plain description:**  
-The final essay considers what happens when Tai Chi practice dissolves into everyday life — a way to pay attention.
+**Core ideas**  
+Practicing attention in life beyond the mat.
 
-**Core ideas:**  
-Practice leaks into ordinary life. The boundary between practice and life softens, cultivating a sustained quality of attention.
-
-**PDF:** [07_Essay_VII_Tai_Chi_as_a_Way_of_Living_Attention.pdf](07_Essay_VII_Tai_Chi_as_a_Way_of_Living_Attention.pdf)
+**PDF:** [07_TaiChi_Essay_VII.pdf](07_TaiChi_Essay_VII.pdf)  
 
 **Citation:**  
 Zhi, Z. (2026). Essay VII — Tai Chi as a Way of Living Attention. Zenodo.  
-DOI: [10.5281/zenodo.18640294](https://doi.org/10.5281/zenodo.18640294)
+DOI: https://doi.org/10.5281/zenodo.18640294
