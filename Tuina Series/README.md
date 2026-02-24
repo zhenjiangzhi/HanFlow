@@ -1,108 +1,193 @@
 # Tuina Series / 推拿系列
 
-探索身体对话与温和自我照护的实践，每篇文章均可点击 PDF 阅读全文。
+An embodied and philosophical exploration of attentive touch, relational self-care, and the body as dialogue rather than object.  
+Part of the HanFlow Practice Framework.  
+Full series overview: [Overview Document](../Overview/README.md)
 
 ---
 
-## Essay I — The Lost Art of Listening: How Our Bodies Long for Dialogue, Not Dictation
-**Plain description**  
-Your body isn't a machine to be fixed — it's a conversation partner waiting to be heard.
+## Essay I — The Lost Art of Listening  
+### How Our Bodies Long for Dialogue, Not Dictation
 
-**Core ideas**  
-Attentive touch in Tuina reconnects us to the body’s own intelligence.
+**Author:** Zhi Zhenjiang  
+**Series:** HanFlow Tuina Series  
+**Year:** 2026  
 
-**PDF:** [01_Tuina_Essay_I.pdf](01_Tuina_Essay_I.pdf)  
+### Abstract  
+This essay reframes the body not as a machine to be corrected but as a relational partner in dialogue. It defines attentive touch in Tuina as a mode of listening that restores communication between awareness and sensation.
 
-**Citation:**  
-Zhi, Z. (2026). Essay I — The Lost Art of Listening: How Our Bodies Long for Dialogue, Not Dictation. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18678147
+### Core Concepts  
+- The body as dialogue partner  
+- Listening before intervention  
+- Touch as relational intelligence  
+- Replacing correction with communication  
+
+### Keywords  
+Tuina, Attentive Touch, Embodied Dialogue, Relational Self-Care, Somatic Listening  
+
+### PDF  
+[Download PDF](01_Tuina_Essay_I.pdf)
+
+### Citation  
+Zhi, Z. (2026). *Essay I — The Lost Art of Listening: How Our Bodies Long for Dialogue, Not Dictation*. Zenodo. https://doi.org/10.5281/zenodo.18678147
 
 ---
 
-## Essay II — From Control to Cooperation: Rethinking the Modern Relationship with the Body
-**Plain description**  
-Examines shifting from controlling the body to cooperating with it.
+## Essay II — From Control to Cooperation  
+### Rethinking the Modern Relationship with the Body
 
-**Core ideas**  
-Focuses on attentive, relational self-care rather than forcing change.
+**Author:** Zhi Zhenjiang  
+**Series:** HanFlow Tuina Series  
+**Year:** 2026  
 
-**PDF:** [02_Tuina_Essay_II.pdf](02_Tuina_Essay_II.pdf)  
+### Abstract  
+This essay proposes a shift from controlling the body to cooperating with it. It argues that sustainable self-care emerges from relational responsiveness rather than imposed discipline.
 
-**Citation:**  
-Zhi, Z. (2026). Essay II — From Control to Cooperation: Rethinking the Modern Relationship with the Body. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18678265
+### Core Concepts  
+- Cooperation over control  
+- Relational self-care  
+- Softening internal authority  
+- Change through collaboration  
+
+### Keywords  
+Tuina, Body Cooperation, Relational Awareness, Gentle Self-Care, Embodied Philosophy  
+
+### PDF  
+[Download PDF](02_Tuina_Essay_II.pdf)
+
+### Citation  
+Zhi, Z. (2026). *Essay II — From Control to Cooperation: Rethinking the Modern Relationship with the Body*. Zenodo. https://doi.org/10.5281/zenodo.18678265
 
 ---
 
 ## Essay III — Why Ancient Cultures Thought in Seasons, Not Schedules
-**Plain description**  
-Explores living in rhythm with seasonal and bodily cycles.
 
-**Core ideas**  
-Encourages harmonizing with natural rhythms rather than rigid schedules.
+**Author:** Zhi Zhenjiang  
+**Series:** HanFlow Tuina Series  
+**Year:** 2026  
 
-**PDF:** [03_Tuina_Essay_III.pdf](03_Tuina_Essay_III.pdf)  
+### Abstract  
+This essay explores seasonal thinking as an alternative to rigid scheduling. It presents Tuina as a practice aligned with cyclical rhythms rather than linear productivity.
 
-**Citation:**  
-Zhi, Z. (2026). Essay III — Why Ancient Cultures Thought in Seasons, Not Schedules. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18678302
+### Core Concepts  
+- Seasonal awareness  
+- Cyclical rhythms of the body  
+- Harmony over rigidity  
+- Timing as intelligence  
 
----
+### Keywords  
+Tuina, Seasonal Awareness, Cyclical Time, Rhythmic Living, Embodied Timing  
 
-## Essay IV — Touch as Attention: The Most Neglected Sense in Modern Life
-**Plain description**  
-Shows the power of touch in recovering presence and sensory awareness.
+### PDF  
+[Download PDF](03_Tuina_Essay_III.pdf)
 
-**Core ideas**  
-Touch is foundational for embodied attention; modern life has diminished it.
-
-**PDF:** [04_Tuina_Essay_IV.pdf](04_Tuina_Essay_IV.pdf)  
-
-**Citation:**  
-Zhi, Z. (2026). Essay IV — Touch as Attention: The Most Neglected Sense in Modern Life. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18678315
+### Citation  
+Zhi, Z. (2026). *Essay III — Why Ancient Cultures Thought in Seasons, Not Schedules*. Zenodo. https://doi.org/10.5281/zenodo.18678302
 
 ---
 
-## Essay V — When Touch Ceases to Be a Practice and Becomes a Way of Attending
-**Plain description**  
-Attentive touch becomes integrated into daily life.
+## Essay IV — Touch as Attention  
+### The Most Neglected Sense in Modern Life
 
-**Core ideas**  
-Practice dissolves into lived attention and presence.
+**Author:** Zhi Zhenjiang  
+**Series:** HanFlow Tuina Series  
+**Year:** 2026  
 
-**PDF:** [05_Tuina_Essay_V.pdf](05_Tuina_Essay_V.pdf)  
+### Abstract  
+This essay defines touch as a form of focused attention. It argues that modern life has diminished tactile awareness, and that Tuina restores sensory presence through intentional contact.
 
-**Citation:**  
-Zhi, Z. (2026). Essay V — When Touch Ceases to Be a Practice and Becomes a Way of Attending. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18678338
+### Core Concepts  
+- Touch as concentrated awareness  
+- Sensory restoration  
+- Attention through contact  
+- Reclaiming embodied presence  
 
----
+### Keywords  
+Tuina, Touch, Embodied Attention, Sensory Awareness, Presence  
 
-## Essay VI — When We Stop Forcing the Body, We Also Stop Forcing Life
-**Plain description**  
-Attention cultivated in Tuina extends to life beyond the body.
+### PDF  
+[Download PDF](04_Tuina_Essay_IV.pdf)
 
-**Core ideas**  
-Receptive awareness improves relationships with work, others, and time.
-
-**PDF:** [06_Tuina_Essay_VI.pdf](06_Tuina_Essay_VI.pdf)  
-
-**Citation:**  
-Zhi, Z. (2026). Essay VI — When We Stop Forcing the Body, We Also Stop Forcing Life. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18678347
+### Citation  
+Zhi, Z. (2026). *Essay IV — Touch as Attention: The Most Neglected Sense in Modern Life*. Zenodo. https://doi.org/10.5281/zenodo.18678315
 
 ---
 
-## Essay VII — The Complete Arc: From Dictation to Dialogue
-**Plain description**  
-Completes the journey from body as object to body as home.
+## Essay V — When Touch Ceases to Be a Practice  
+### And Becomes a Way of Attending
 
-**Core ideas**  
-Living, listening, and relationship become the ultimate practice.
+**Author:** Zhi Zhenjiang  
+**Series:** HanFlow Tuina Series  
+**Year:** 2026  
 
-**PDF:** [07_Tuina_Essay_VII.pdf](07_Tuina_Essay_VII.pdf)  
+### Abstract  
+This essay explores how attentive touch evolves from structured practice into lived orientation. It proposes that sustained sensory awareness transforms daily interaction.
 
-**Citation:**  
-Zhi, Z. (2026). Essay VII — The Complete Arc: From Dictation to Dialogue. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18678360
+### Core Concepts  
+- Practice dissolving into presence  
+- Lived attention  
+- Continuous relational awareness  
+- Touch beyond technique  
+
+### Keywords  
+Tuina, Lived Attention, Daily Practice, Relational Presence, Embodied Awareness  
+
+### PDF  
+[Download PDF](05_Tuina_Essay_V.pdf)
+
+### Citation  
+Zhi, Z. (2026). *Essay V — When Touch Ceases to Be a Practice and Becomes a Way of Attending*. Zenodo. https://doi.org/10.5281/zenodo.18678338
+
+---
+
+## Essay VI — When We Stop Forcing the Body  
+### We Also Stop Forcing Life
+
+**Author:** Zhi Zhenjiang  
+**Series:** HanFlow Tuina Series  
+**Year:** 2026  
+
+### Abstract  
+This essay extends receptive awareness beyond the body into daily living. It argues that non-forcing cultivated through touch reshapes relationships with work, time, and others.
+
+### Core Concepts  
+- Non-forcing as life principle  
+- Receptive awareness  
+- Relational transformation  
+- Extending touch into living  
+
+### Keywords  
+Tuina, Non-Forcing, Receptive Awareness, Relational Living, Embodied Ethics  
+
+### PDF  
+[Download PDF](06_Tuina_Essay_VI.pdf)
+
+### Citation  
+Zhi, Z. (2026). *Essay VI — When We Stop Forcing the Body, We Also Stop Forcing Life*. Zenodo. https://doi.org/10.5281/zenodo.18678347
+
+---
+
+## Essay VII — The Complete Arc  
+### From Dictation to Dialogue
+
+**Author:** Zhi Zhenjiang  
+**Series:** HanFlow Tuina Series  
+**Year:** 2026  
+
+### Abstract  
+This concluding essay traces the full arc from body as object to body as relational home. It positions dialogue, listening, and mutual responsiveness as the foundation of embodied practice.
+
+### Core Concepts  
+- From objectification to relationship  
+- Dialogue as practice  
+- The body as home  
+- Listening as lifelong discipline  
+
+### Keywords  
+Tuina, Embodied Dialogue, Relational Practice, Somatic Philosophy, Body Awareness  
+
+### PDF  
+[Download PDF](07_Tuina_Essay_VII.pdf)
+
+### Citation  
+Zhi, Z. (2026). *Essay VII — The Complete Arc: From Dictation to Dialogue*. Zenodo. https://doi.org/10.5281/zenodo.18678360
