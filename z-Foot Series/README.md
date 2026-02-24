@@ -1,239 +1,190 @@
-# Food Series / 美食系列
+# Food Series  
+Relational Nourishment and Embodied Eating  
 
-Part of the HanFlow Practice Framework.  
-Full series overview: [Overview Document](../Overview/README.md)
+Part of the HanFlow Practice Framework  
+Framework Overview: [HanFlow Framework](../Overview/README.md)
 
-探索日常饮食中的温和觉察与关系智慧。  
-Each essay is available in PDF format.
+**Author**: Zhenjiang Zhi  
+**Affiliation**: HanFlow Initiative  
+**ORCID**: 0009-0004-3176-4764  
+**Year**: 2026  
+**License**: CC BY 4.0  
+
+**Series Keywords**: mindful eating, five tastes, seasonal rhythm, relational nourishment, embodied attention, culinary philosophy, HanFlow  
 
 ---
 
-## Manifesto – Eating as Embodied Practice  
+## Series Abstract
+
+The Food Series explores eating not as fuel optimization but as an embodied cultural practice. Through a manifesto and nine essays, it reframes meals as relational events — linking attention, seasonal rhythm, sensory intelligence, and everyday care.
+
+Rather than emphasizing nutrition metrics or performance, this series presents the table as a site of lived awareness. Cooking, tasting, and sharing become disciplines of presence that integrate movement, touch, and nourishment within the broader HanFlow framework.
+
+---
+
+# Manifesto
+
+---
+
+## Eating as Embodied Practice  
 ### The HanFlow Food Manifesto
 
-**Plain description**  
-This foundational manifesto reframes eating as an embodied practice of attention, presence, and relational nourishment, introducing the HanFlow Table Model as a perceptual framework for everyday meals.
+**DOI**: https://doi.org/10.5281/zenodo.18738898  
 
-**Core ideas**
-- Food as conversation partner rather than fuel  
-- Five tastes as body’s native language  
-- Seasonal alignment as relational rhythm  
-- First bite as threshold of presence  
-- Continuity from preparation to feeling  
+**Abstract**  
+This foundational manifesto reframes eating as an embodied practice of attention, presence, and relational nourishment. It introduces the HanFlow Table Model as a perceptual framework for everyday meals.
 
-**Keywords**  
-Embodied Eating, Five Tastes, Seasonal Rhythm, Relational Nourishment, HanFlow
+**Keywords**: embodied eating, five tastes, seasonal rhythm, relational nourishment, HanFlow  
 
-**PDF**  
 [Download PDF](00_Foot_manifesto.pdf)
 
 **Citation**  
 Zhi, Z. (2026). *Eating as Embodied Practice: The HanFlow Food Manifesto*. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18738898
+
+---
+
+# Essays
 
 ---
 
 ## Essay I – Eating as Embodied Practice
 
-**Plain description**  
-Modern life reduces eating to fuel and distraction. This essay reclaims it as an embodied practice — a full-body way of knowing through sensory experience, introducing the HanFlow triangle and a simple 3-step exercise.
+**DOI**: https://doi.org/10.5281/zenodo.18739132  
 
-**Core ideas**
-- Embodied knowing vs analytical nutrition  
-- Color–aroma–flavor–form as full-body perception  
-- HanFlow triangle: Tai Chi, self-massage, mindful eating  
-- Eating as gentle discipline of presence  
+**Abstract**  
+This essay reclaims eating as a full-body way of knowing through sensory experience. It introduces the HanFlow triangle and a simple three-step exercise linking Tai Chi, self-massage, and mindful eating.
 
-**Keywords**  
-Mindful Eating, Embodied Intelligence, Sensory Awareness, HanFlow Triangle, HanFlow
+**Keywords**: mindful eating, embodied intelligence, sensory awareness, HanFlow triangle  
 
-**PDF**  
 [Download PDF](01_Foot_Essay_I.pdf)
 
 **Citation**  
-Zhi, Z. (2026). *Essay I: Eating as Embodied Practice*. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18739132
+Zhi, Z. (2026). *Essay I: Eating as Embodied Practice*. Zenodo.   
 
 ---
 
 ## Essay II – Flavor as Sensory Attention
 
-**Plain description**  
-In an attention economy dominated by screens, taste becomes a forgotten channel for training focus. This essay explores flavor as gustatory attention and offers the “One-Bite Meditation” to reclaim sensory bandwidth.
+**DOI**: https://doi.org/10.5281/zenodo.18739211  
 
-**Core ideas**
-- Flavor as sensory attention training  
-- Gustatory bandwidth vs visual overload  
-- One-bite meditation practice  
-- Attention transfer from taste to daily life  
+**Abstract**  
+This essay explores flavor as gustatory attention training. It presents the “one-bite meditation” as a method for restoring sensory bandwidth in an attention-saturated culture.
 
-**Keywords**  
-Sensory Attention, One-Bite Meditation, Flavor Awareness, Attention Training, HanFlow
+**Keywords**: sensory attention, one-bite meditation, flavor awareness, attention training  
 
-**PDF**  
 [Download PDF](02_Foot_Essay_II.pdf)
 
 **Citation**  
 Zhi, Z. (2026). *Essay II: Flavor as Sensory Attention*. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18739211
 
 ---
 
 ## Essay III – Cooking Without Optimization
 
-**Plain description**  
-Optimization turns kitchens into labs and cooking into performance metrics, leading to exhaustion and guilt. This essay reclaims cooking as non-instrumental care — an attentive practice where process matters more than output.
+**DOI**: https://doi.org/10.5281/zenodo.18739249  
 
-**Core ideas**
-- Optimization fatigue vs non-instrumental care  
-- Cooking as end in itself  
-- Rhythm of chopping, stirring, tasting as embodied practice  
-- Kitchen as sanctuary of presence  
+**Abstract**  
+This essay reclaims cooking as non-instrumental care. It proposes the kitchen as a sanctuary of embodied rhythm rather than a laboratory of performance metrics.
 
-**Keywords**  
-Slow Cooking, Non-Instrumental Care, Embodied Rhythm, Kitchen Practice, HanFlow
+**Keywords**: slow cooking, non-instrumental care, embodied rhythm, kitchen practice  
 
-**PDF**  
 [Download PDF](03_Foot_Essay_III.pdf)
 
 **Citation**  
 Zhi, Z. (2026). *Essay III: Cooking Without Optimization*. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18739249
 
 ---
 
 ## Essay IV – Chinese Culinary Aesthetics in a Modern Context
 
-**Plain description**  
-Western aesthetics prioritize visual spectacle; Chinese culinary aesthetics emphasize relational harmony with seasons, bodies, and people. This essay revives five tastes and seasonal intelligence as living maps for balance.
+**DOI**: https://doi.org/10.5281/zenodo.18739325  
 
-**Core ideas**
-- Relational aesthetics vs visual plating  
-- Five tastes as intuitive map  
-- Seasonal intelligence as relationship with the year  
-- Everyday invitations for urban life  
+**Abstract**  
+This essay contrasts visual spectacle with relational culinary harmony. It reintroduces five tastes and seasonal intelligence as living maps for everyday balance.
 
-**Keywords**  
-Chinese Culinary Aesthetics, Five Tastes, Seasonal Intelligence, Relational Harmony, HanFlow
+**Keywords**: Chinese culinary aesthetics, five tastes, seasonal intelligence, relational harmony  
 
-**PDF**  
 [Download PDF](04_Foot_Essay_IV.pdf)
 
 **Citation**  
-Zhi, Z. (2026). *Essay IV: Chinese Culinary Aesthetics in a Modern Context*. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18739325
+Zhi, Z. (2026). *Essay IV: Chinese Culinary Aesthetics in a Modern Context*. Zenodo.   
 
 ---
 
 ## Essay V – Cultural Translation Without Dilution
 
-**Plain description**  
-Adaptation is inevitable when Chinese food philosophy travels, but dilution occurs when core questions are lost. This essay offers three portable principles and a single-question practice to keep tradition alive through attention.
+**DOI**: https://doi.org/10.5281/zenodo.18739360  
 
-**Core ideas**
-- Adaptation without dilution  
-- Portable principles for any kitchen  
-- Questions travel, answers are yours  
-- Translator as attentive cook  
+**Abstract**  
+This essay addresses adaptation in cross-cultural food philosophy. It proposes portable principles that preserve attention-based practice without rigid replication.
 
-**Keywords**  
-Cultural Translation, Adaptation Ethics, Living Tradition, Attention Practice, HanFlow
+**Keywords**: cultural translation, adaptation ethics, living tradition, attention practice  
 
-**PDF**  
 [Download PDF](05_Foot_Essay_V.pdf)
 
 **Citation**  
 Zhi, Z. (2026). *Essay V: Cultural Translation Without Dilution*. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18739360
 
 ---
 
 ## Essay VI – Food & Mindful Lifestyle Integration
 
-**Plain description**  
-Modern life fragments eating into isolated events. This essay maps meal as a continuous flow connecting shopping, cooking, eating, and feeling, with a seven-day practice to weave food back into daily life.
+**DOI**: https://doi.org/10.5281/zenodo.18739424  
 
-**Core ideas**
-- Fragmentation vs continuity  
-- Meal as current through the day  
-- Integration points (morning, work, evening)  
-- Seven-day following-the-current practice  
+**Abstract**  
+This essay maps meals as continuous flows connecting shopping, cooking, eating, and feeling. It offers a seven-day integration practice.
 
-**Keywords**  
-Lifestyle Integration, Continuity Practice, Daily Rhythm, Mindful Living, HanFlow
+**Keywords**: lifestyle integration, continuity practice, daily rhythm, mindful living  
 
-**PDF**  
 [Download PDF](06_Foot_Essay_VI.pdf)
 
 **Citation**  
-Zhi, Z. (2026). *Essay VI: Food & Mindful Lifestyle Integration*. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18739424
+Zhi, Z. (2026). *Essay VI: Food & Mindful Lifestyle Integration*. Zenodo.   
 
 ---
 
 ## Essay VII – The First Bite Philosophy
 
-**Plain description**  
-Autopilot eating makes meals invisible. The first bite is a threshold — the moment food enters the body. This essay reframes it as a reset for attention with a seven-step daily practice.
+**DOI**: https://doi.org/10.5281/zenodo.18739458  
 
-**Core ideas**
-- First bite as threshold of presence  
-- From autopilot to arrival  
-- One-bite-a-day meditation  
-- Attention as the true meal  
+**Abstract**  
+This essay reframes the first bite as a threshold of presence — a daily reset for embodied awareness.
 
-**Keywords**  
-First Bite Practice, Presence Reset, Embodied Attention, Daily Ritual, HanFlow
+**Keywords**: first bite practice, presence reset, embodied attention, daily ritual  
 
-**PDF**  
 [Download PDF](07_Foot_Essay_VII.pdf)
 
 **Citation**  
-Zhi, Z. (2026). *Essay VII: The First Bite Philosophy*. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18739458
+Zhi, Z. (2026). *Essay VII: The First Bite Philosophy*. Zenodo.   
 
 ---
 
 ## Essay VIII – The Five Tastes Practice
 
-**Plain description**  
-Processed food numbs subtlety. The five tastes are the body’s native language. This essay presents them as a map for intuitive balance with a seven-day taste awareness progression.
+**DOI**: https://doi.org/10.5281/zenodo.18739490  
 
-**Core ideas**
-- Five tastes as body’s native tongue  
-- Sensory feedback system  
-- From numbness to intuitive craving  
-- Seven-day taste progression  
+**Abstract**  
+This essay presents the five tastes as the body’s native sensory language and offers a seven-day progression toward intuitive balance.
 
-**Keywords**  
-Five Tastes, Sensory Intelligence, Taste Awareness, Intuitive Balance, HanFlow
+**Keywords**: five tastes, sensory intelligence, taste awareness, intuitive balance  
 
-**PDF**  
 [Download PDF](08_Foot_Essay_VIII.pdf)
 
 **Citation**  
-Zhi, Z. (2026). *Essay VIII: The Five Tastes Practice*. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18739490
+Zhi, Z. (2026). *Essay VIII: The Five Tastes Practice*. Zenodo.   
 
 ---
 
 ## Essay IX – A Week at the Table
 
-**Plain description**  
-Knowing is not doing. This final essay offers a gentle seven-day structure to turn daily meals into practice.
+**DOI**: https://doi.org/10.5281/zenodo.18739514  
 
-**Core ideas**
-- Seven-day gentle invitation  
-- From showing up to quiet continuity  
-- No perfection, only presence  
-- Open door to deeper practice  
+**Abstract**  
+This final essay offers a gentle seven-day structure to transform daily meals into sustained embodied practice.
 
-**Keywords**  
-Seven-Day Practice, Daily Presence, Gentle Discipline, Table Practice, HanFlow
+**Keywords**: seven-day practice, daily presence, gentle discipline, table practice  
 
-**PDF**  
 [Download PDF](09_Foot_Essay_IX.pdf)
 
 **Citation**  
 Zhi, Z. (2026). *Essay IX: A Week at the Table*. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18739514
