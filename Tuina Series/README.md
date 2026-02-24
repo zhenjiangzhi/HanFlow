@@ -112,7 +112,8 @@ Tuina, Touch, Embodied Attention, Sensory Awareness, Presence
 [Download PDF](04_Tuina_Essay_IV.pdf)
 
 ### Citation  
-Zhi, Z. (2026). *Essay IV — Touch as Attention: The Most Neglected Sense in Modern Life*. Zenodo. https://doi.org/10.5281/zenodo.18678315
+Zhi, Z. (2026). *Essay IV — Touch as Attention: The Most Neglected Sense in Modern Life*. Zenodo. 
+DOI: https://doi.org/10.5281/zenodo.18678315
 
 ---
 
