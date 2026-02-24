@@ -29,7 +29,8 @@ Tuina, Attentive Touch, Embodied Dialogue, Relational Self-Care, Somatic Listeni
 [Download PDF](01_Tuina_Essay_I.pdf)
 
 ### Citation  
-Zhi, Z. (2026). *Essay I — The Lost Art of Listening: How Our Bodies Long for Dialogue, Not Dictation*. Zenodo. https://doi.org/10.5281/zenodo.18678147
+Zhi, Z. (2026). *Essay I — The Lost Art of Listening: How Our Bodies Long for Dialogue, Not Dictation*. Zenodo. 
+DOI: https://doi.org/10.5281/zenodo.18678147
 
 ---
 
@@ -56,7 +57,8 @@ Tuina, Body Cooperation, Relational Awareness, Gentle Self-Care, Embodied Philos
 [Download PDF](02_Tuina_Essay_II.pdf)
 
 ### Citation  
-Zhi, Z. (2026). *Essay II — From Control to Cooperation: Rethinking the Modern Relationship with the Body*. Zenodo. https://doi.org/10.5281/zenodo.18678265
+Zhi, Z. (2026). *Essay II — From Control to Cooperation: Rethinking the Modern Relationship with the Body*. Zenodo. 
+DOI: https://doi.org/10.5281/zenodo.18678265
 
 ---
 
@@ -82,7 +84,8 @@ Tuina, Seasonal Awareness, Cyclical Time, Rhythmic Living, Embodied Timing
 [Download PDF](03_Tuina_Essay_III.pdf)
 
 ### Citation  
-Zhi, Z. (2026). *Essay III — Why Ancient Cultures Thought in Seasons, Not Schedules*. Zenodo. https://doi.org/10.5281/zenodo.18678302
+Zhi, Z. (2026). *Essay III — Why Ancient Cultures Thought in Seasons, Not Schedules*. Zenodo. 
+DOI: https://doi.org/10.5281/zenodo.18678302
 
 ---
 
@@ -136,7 +139,8 @@ Tuina, Lived Attention, Daily Practice, Relational Presence, Embodied Awareness
 [Download PDF](05_Tuina_Essay_V.pdf)
 
 ### Citation  
-Zhi, Z. (2026). *Essay V — When Touch Ceases to Be a Practice and Becomes a Way of Attending*. Zenodo. https://doi.org/10.5281/zenodo.18678338
+Zhi, Z. (2026). *Essay V — When Touch Ceases to Be a Practice and Becomes a Way of Attending*. Zenodo. 
+DOI: https://doi.org/10.5281/zenodo.18678338
 
 ---
 
@@ -163,7 +167,8 @@ Tuina, Non-Forcing, Receptive Awareness, Relational Living, Embodied Ethics
 [Download PDF](06_Tuina_Essay_VI.pdf)
 
 ### Citation  
-Zhi, Z. (2026). *Essay VI — When We Stop Forcing the Body, We Also Stop Forcing Life*. Zenodo. https://doi.org/10.5281/zenodo.18678347
+Zhi, Z. (2026). *Essay VI — When We Stop Forcing the Body, We Also Stop Forcing Life*. Zenodo. 
+DOI: https://doi.org/10.5281/zenodo.18678347
 
 ---
 
@@ -190,4 +195,5 @@ Tuina, Embodied Dialogue, Relational Practice, Somatic Philosophy, Body Awarenes
 [Download PDF](07_Tuina_Essay_VII.pdf)
 
 ### Citation  
-Zhi, Z. (2026). *Essay VII — The Complete Arc: From Dictation to Dialogue*. Zenodo. https://doi.org/10.5281/zenodo.18678360
+Zhi, Z. (2026). *Essay VII — The Complete Arc: From Dictation to Dialogue*. Zenodo. 
+DOI: https://doi.org/10.5281/zenodo.18678360
