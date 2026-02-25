@@ -29,7 +29,7 @@ They serve as the intellectual backbone for the more practice-oriented series th
 
 ## Essay I — What Is Tai Chi? A Modern Embodied Perspective (HanFlow Framework)
 
-**DOI**: https://doi.org/10.5281/zenodo.18769688
+**DOI**: https://doi.org/10.5281/zenodo.18769688  
 **Published**: 2026  
 
 **Abstract**  
@@ -49,3 +49,5 @@ Tai Chi, embodied practice, attention training, mindful movement, HanFlow framew
 
 **Citation**  
 Zhi, Z. (2026). *What Is Tai Chi? A Modern Embodied Perspective (HanFlow Framework)*. Zenodo.  
+
+
