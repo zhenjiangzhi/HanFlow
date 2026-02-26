@@ -4,7 +4,7 @@
 Quiet explorations of embodied presence, yielding, rhythmic time, gentle self-care, and relational nourishment through mindful eating, rooted in Chinese traditions (Tai Chi, Tuina, mindful eating).
 
 ## Core Folders
-- **[Overview / General Outline](./Overview)**  
+- **[Overview](./Overview)**  
   Foundational framework, author bio, ORCID, Zenodo links, and series overview.
 
 - **[TaiChi Series / Tai Chi Series](./TaiChi%20Series)** – 7 Essays  
