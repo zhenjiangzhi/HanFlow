@@ -1,3 +1,5 @@
+<!-- This is the main index page for GitHub Pages -->
+
 # HanFlow Reflections
 **Welcome to HanFlow Reflections — a quiet space for embodied wisdom and gentle self-care.**
 
