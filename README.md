@@ -26,5 +26,3 @@ Exploring embodied presence, yielding, rhythmic time, gentle self-care, and rela
 
 All content licensed under CC BY 4.0.  
 More at: https://www.hanflow365.com
-
-**Explore the folders above to begin.**
