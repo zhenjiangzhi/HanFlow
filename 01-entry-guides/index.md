@@ -1,12 +1,10 @@
-# Start Here | 从这里开始
+# Start Here
 
 If you're new to HanFlow, begin with these simple questions.
 
-如果你刚接触 HanFlow，可以从这些日常问题开始。
-
 ---
 
-## 🌿 Foundations | 基础理解
+## 🌿 Foundations
 
 - [What is Tai Chi?](./01-what-is-tai-chi.md)
 - [What is Tuina?](./02-what-is-tuina.md)
@@ -15,7 +13,7 @@ If you're new to HanFlow, begin with these simple questions.
 
 ---
 
-## ⚖️ Comparisons | 对比理解
+## ⚖️ Comparisons
 
 - [Tai Chi vs Yoga](./05-tai-chi-vs-yoga.md)
 - [Tuina vs Western Massage](./06-tuina-vs-massage.md)
@@ -23,7 +21,7 @@ If you're new to HanFlow, begin with these simple questions.
 
 ---
 
-## 🌙 Everyday Problems | 日常问题
+## 🌙 Everyday Problems
 
 - [Why am I always tired?](./08-why-always-tired.md)
 - [How to sleep better naturally?](./09-how-to-sleep-better.md)
