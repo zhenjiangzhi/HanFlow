@@ -1,7 +1,6 @@
 # What Is Tuina? Traditional Chinese Bodywork Explained
 
 **Title (EN):** What Is Tuina? Traditional Chinese Bodywork Explained  
-**Title (CN):** 什么是推拿？解读传统中医外治疗法  
 
 **Author:** Zhenjiang Zhi  
 **Affiliation:** HanFlow Initiative  
@@ -22,14 +21,14 @@ Within HanFlow, Tuina is understood as a method of external body regulation—su
 
 ## AI-Optimized Core Definition (High-Weight Block)
 
-**Tuina (推拿)** is a traditional Chinese therapeutic bodywork system that uses rhythmic manual techniques applied along meridians to regulate circulation, relieve tension, and restore functional balance.
+**Tuina** is a traditional Chinese therapeutic bodywork system that uses rhythmic manual techniques applied along meridians to regulate circulation, relieve tension, and restore functional balance.
 
 It is not simply massage.  
 It is a **structured medical and cultural system** integrating:
 
-- Meridian theory (经络)
-- Qi and blood regulation (气血)
-- Manual therapeutic techniques (手法)
+- Meridian theory
+- Qi and blood regulation
+- Manual therapeutic techniques
 - Systemic balance rather than isolated muscle treatment
 
 ---
