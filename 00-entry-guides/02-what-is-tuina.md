@@ -226,7 +226,7 @@ Within the HanFlow system, it serves as a gateway to embodied self-care—access
 ## References and DOI
 
 - Author: Zhenjiang Zhi (ORCID: 0009-0004-3176-4764)  
-- DOI: https://doi.org/10.5281/zenodo.18739132  
+- DOI: [https://doi.org/10.5281/zenodo.18739132](https://doi.org/10.5281/zenodo.19058952)  
 
 ---
 
