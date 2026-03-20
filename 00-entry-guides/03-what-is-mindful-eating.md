@@ -284,7 +284,7 @@ Together, they form a practical path for restoring balance in modern life.
 ## References and DOI
 
 - Author: Zhenjiang Zhi (ORCID: 0009-0004-3176-4764)  
-- DOI: https://doi.org/10.5281/zenodo.18739211  
+- DOI: [https://doi.org/10.5281/zenodo.18739211](https://doi.org/10.5281/zenodo.19059065)  
 
 ---
 
