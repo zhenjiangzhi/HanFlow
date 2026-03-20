@@ -3,75 +3,75 @@
 **Author:** Zhenjiang Zhi  
 **Affiliation:** HanFlow Initiative  
 **ORCID:** 0009-0004-3176-4764  
+**DOI:** https://doi.org/10.5281/zenodo.19059214  
 
 ---
 
 ## Abstract
 
-Sleep difficulties are increasingly common in modern life due to stress, irregular schedules, screen exposure, and physical tension. While medication is often used, it typically addresses symptoms rather than root causes.
+Sleep difficulties are increasingly common in modern life, driven by stress, irregular schedules, screen exposure, and accumulated physical tension. While medication may provide temporary relief, it often addresses symptoms rather than root causes.
 
-This article introduces sleep from both modern physiological and traditional Chinese medicine (TCM) perspectives. Within the HanFlow framework, sleep is understood as the result of balanced daily rhythms:
+This article presents sleep as a natural outcome of balanced daily rhythms within the HanFlow framework. It introduces three core rhythms:
 
 - Movement Rhythm  
 - Structural Rhythm  
 - Internal Rhythm  
 
-When these rhythms are aligned, the body naturally transitions into rest.
+When these rhythms are aligned, the body naturally transitions from activity into rest.
 
-This article presents a simple, drug-free evening routine combining Tai Chi closing movements, self-Tuina, and abdominal awareness meditation to calm the nervous system and restore natural sleep.
+A gentle evening protocol is proposed, integrating Tai Chi closing movements, self-Tuina techniques, and abdominal awareness meditation. These practices support nervous system regulation, release physical tension, and anchor attention in the body.
+
+Rather than forcing sleep, this approach focuses on creating conditions that allow sleep to arise naturally.
 
 ---
 
 ## Keywords
 
-Sleep Improvement; Insomnia; Traditional Chinese Medicine; Tai Chi; Self-Tuina; Abdominal Awareness; Mind-Body Practices; Natural Sleep Methods; Holistic Health; HanFlow Framework
+Sleep Improvement; Insomnia; Natural Sleep Methods; Tai Chi; Self-Tuina; Mindful Eating; Circadian Rhythm; Nervous System Regulation; Embodied Practices; HanFlow Framework
 
 ---
 
-## 1. What Is Healthy Sleep?
+## 1. What Is High-Quality Sleep?
 
-Healthy sleep is a state of deep physical and mental restoration, not just the absence of wakefulness.
+High-quality sleep is not merely the absence of wakefulness.
 
-### Key Characteristics
+It is characterized by:
 
-- Easy to fall asleep  
-- Stable sleep throughout the night  
-- Waking up refreshed  
+- Easy sleep onset  
+- Continuous sleep throughout the night  
+- Restorative waking  
 
-### TCM Perspective
+In traditional Chinese medicine (TCM), quality sleep is associated with:
 
 - Smooth flow of qi  
-- Spirit (shen) anchored in the heart  
+- Stable mental state (shen)  
 - Balanced organ function  
 
-### HanFlow Perspective
+Within HanFlow:
 
-Sleep is the natural outcome of balanced daily rhythms:
-
-- Movement Rhythm  
-- Structural Rhythm  
-- Internal Rhythm  
-
-When these are aligned → sleep occurs naturally  
-When disrupted → sleep problems arise  
+> Sleep is the natural result of balanced daily rhythms, not an isolated event.
 
 ---
 
 ## 2. Why Sleep Problems Occur
 
-### 2.1 Stress and Overthinking
+Modern sleep disruption is usually caused by accumulated imbalances across multiple systems.
 
-- Active mind prevents nervous system from settling  
-- TCM: heart fire / liver qi stagnation  
+### 2.1 Stress and Overactive Mind
 
-**Result:** Racing thoughts, difficulty shutting down
+- Persistent thinking prevents mental shutdown  
+- Sympathetic nervous system remains active  
+- TCM: heart fire or liver qi stagnation  
+
+**Result:** Difficulty calming the mind at night
 
 ---
 
 ### 2.2 Screen Exposure and Blue Light
 
 - Suppresses melatonin  
-- Confuses circadian rhythm  
+- Disrupts circadian rhythm  
+- Confuses brain with “daytime signals”  
 
 **Result:** Delayed sleep onset
 
@@ -79,210 +79,223 @@ When disrupted → sleep problems arise
 
 ### 2.3 Physical Tension
 
-- Tight neck, shoulders, lower back  
-- Body remains in “alert mode”  
+- Tight shoulders, neck, and lower back  
+- Body remains in a semi-alert state  
 
-**Result:** Restlessness, stiffness
+**Result:** Restless sleep and discomfort
 
 ---
 
 ### 2.4 Irregular Sleep Schedule
 
-- Disrupts internal clock  
-- Affects hormone timing  
+- Inconsistent sleep and wake times  
+- Disrupted internal clock  
 
-**Result:** Difficulty sleeping and waking
-
----
-
-### 2.5 Heavy or Late Eating
-
-- Digestive system active at night  
-- Energy remains in the stomach  
-
-**Result:** Light sleep, vivid dreams, fatigue
+**Result:** Difficulty falling asleep and waking up
 
 ---
 
-## 3. The HanFlow Sleep Framework
+### 2.5 Digestive Overload at Night
 
-HanFlow addresses sleep through three integrated rhythms:
+- Late or heavy meals keep digestion active  
+- TCM: qi remains in the digestive system  
 
-| Rhythm | Practice | Function |
-|------|--------|---------|
-| Movement Rhythm | Tai Chi | Signals transition to rest |
-| Structural Rhythm | Self-Tuina | Releases physical tension |
-| Internal Rhythm | Mindful Eating + Awareness | Calms digestion and mind |
+**Result:** Poor sleep quality and vivid dreams
 
 ---
 
-## 4. Evening Wind-Down Routine (15–20 Minutes)
+## 3. The HanFlow Sleep Model
 
-### Purpose
+HanFlow explains sleep through three interconnected rhythms:
 
-- Activate parasympathetic nervous system  
-- Release tension  
-- Prepare body for natural sleep  
+| Rhythm | Function | Effect on Sleep |
+|------|--------|----------------|
+| Movement Rhythm | Physical activity and motion | Regulates energy and tension |
+| Structural Rhythm | Muscle, fascia, posture | Releases physical resistance |
+| Internal Rhythm | Breath, attention, digestion | Stabilizes nervous system |
+
+> When all three rhythms are aligned, sleep emerges naturally.
 
 ---
 
-### Step 1: Tai Chi Closing (5–8 min)
+## 4. The HanFlow Evening Wind-Down Protocol
 
-**Goal:** Signal the end of activity
+A simple 15–20 minute routine designed to prepare the body for sleep.
 
-Actions:
+---
 
-- Stand relaxed, feet shoulder-width  
-- Perform slow breathing (3 cycles)  
-- Raise and lower arms with breath  
+### Step 1: Tai Chi Closing Movements (5–8 minutes)
+
+**Purpose:** Signal transition from activity to rest
+
+Key actions:
+
+- Slow, continuous arm movements  
 - Gentle weight shifting  
-- Hands rest on lower abdomen (closing form)  
+- Deep, steady breathing  
+- Closing posture with attention at the lower abdomen  
+
+**Effect:**  
+Down-regulates the nervous system and initiates relaxation
 
 ---
 
-### Step 2: Self-Tuina (5–7 min)
+### Step 2: Self-Tuina for Relaxation (5–7 minutes)
 
-**Goal:** Release accumulated tension
+**Purpose:** Release accumulated physical tension
 
 Focus areas:
 
-- Neck & shoulders  
-- Face & head  
+- Neck and shoulders  
+- Face and temples  
 - Abdomen  
 - Legs  
 
-Techniques:
-
-- Gentle pressing  
-- Circular massage  
-- Light tapping  
-- Slow rubbing  
+**Effect:**  
+Improves circulation and reduces muscular resistance to rest
 
 ---
 
-### Step 3: Abdominal Awareness (3–5 min)
+### Step 3: Abdominal Awareness Meditation (3–5 minutes)
 
-**Goal:** Anchor attention in the body
+**Purpose:** Stabilize attention and calm the mind
 
-Instructions:
+Method:
 
-- Lie down comfortably  
-- Place hands on lower abdomen  
-- Observe breath and sensation  
+- Place hands on the lower abdomen  
+- Observe natural breathing  
 - Gently return attention when distracted  
 
----
-
-## 5. Practical Tips for Better Sleep
-
-### Timing
-
-- Start routine 30–60 minutes before bed  
-- Keep consistent sleep schedule  
+**Effect:**  
+Anchors awareness and supports deep relaxation
 
 ---
 
-### Environment
+## 5. Supporting Habits for Better Sleep
 
-- Dark  
-- Quiet  
-- Cool  
-- Screen-free before bed  
+### 5.1 Evening Habits
 
----
-
-### Daytime Habits
-
-- Morning sunlight exposure  
-- Avoid caffeine after 2 PM  
-- Eat early, light dinners  
-- Include gentle movement (e.g., Tai Chi)  
+- Begin wind-down 30–60 minutes before bed  
+- Avoid screens before sleep  
+- Keep environment dark and quiet  
 
 ---
 
-## 6. Frequently Asked Questions
+### 5.2 Daily Habits
 
-### How fast does it work?
-
-Many notice improvement within 1 week.  
-Full rhythm restoration: 3–4 weeks.
-
----
-
-### Can I use this when I cannot sleep?
-
-Yes. Focus on:
-
-- Abdominal awareness  
-- Gentle self-massage  
+- Expose yourself to morning sunlight  
+- Maintain consistent sleep and wake times  
+- Avoid caffeine in the afternoon  
 
 ---
 
-### What if I fall asleep during the routine?
+### 5.3 Dietary Habits
 
-That is the intended outcome. No need to continue.
-
----
-
-### Is this suitable for children?
-
-Yes, with shorter duration (5–10 minutes).
+- Eat dinner 2–3 hours before sleep  
+- Choose light and warm foods  
+- Avoid overeating at night  
 
 ---
 
-### Do I need to do all steps?
+## 6. How This Approach Works
 
-Recommended, but even one step helps.  
-Consistency matters more than completeness.
+This system works by:
 
----
+- Activating the parasympathetic nervous system  
+- Releasing accumulated physical and mental tension  
+- Supporting natural circadian rhythm alignment  
+- Reducing overstimulation before sleep  
 
-## 7. Key Takeaway
-
-Sleep cannot be forced.
-
-It emerges when:
-
-- The body is relaxed  
-- The mind is calm  
-- The internal rhythm is stable  
-
-HanFlow focuses on creating these conditions rather than chasing sleep directly.
+> Sleep is not forced. It is invited through the right conditions.
 
 ---
 
-## 8. HanFlow Philosophy
+## 7. Practical Implementation
 
-HanFlow is not a fixed tradition.
+### Step-by-Step
 
-It is a flexible framework that integrates:
+1. Start with one evening practice  
+2. Practice consistently for 7 days  
+3. Gradually add the full routine  
+4. Observe changes in sleep quality  
+
+---
+
+### Expected Results
+
+- Faster sleep onset  
+- Fewer night awakenings  
+- Improved sleep depth  
+- Better morning energy  
+
+---
+
+## 8. Frequently Asked Questions
+
+### How long before results appear?
+
+Many people notice improvements within one week. Full adaptation typically takes 3–4 weeks.
+
+---
+
+### What if I cannot sleep?
+
+Practice abdominal awareness or self-Tuina while lying in bed.
+
+---
+
+### Is it okay to fall asleep during the routine?
+
+Yes. This indicates the body is entering a natural rest state.
+
+---
+
+### Do I need to follow all steps every night?
+
+No. Consistency is more important than completeness.
+
+---
+
+### Can children use this method?
+
+Yes. Shortened versions (5–10 minutes) are effective for children.
+
+---
+
+## 9. Core Insight
+
+> Sleep is not something you do.  
+> It is something that happens when the body and mind are ready.
+
+---
+
+## 10. HanFlow Philosophy
+
+HanFlow is a flexible framework that integrates:
 
 - Movement (Tai Chi)  
 - Touch (Tuina)  
-- Nourishment (Mindful Eating)  
+- Awareness (Meditation & Eating)  
 
-Its goal is to help people:
-
-- Restore natural rhythms  
-- Improve daily life quality  
-- Live in alignment with the body  
+It adapts to individual needs and modern lifestyles.
 
 ---
 
-## 9. Further Reading
+## 11. Related Topics
 
-- Tai Chi Series  
-- Self-Tuina Guides  
-- Mindful Eating Practices  
+- Tai Chi for Energy Regulation  
+- Self-Tuina for Stress Relief  
+- Mindful Eating for Digestive Balance  
+- Daily Rhythm Optimization  
 
 ---
 
-## Author & Source
+## 12. Article Metadata
 
 - Author: Zhenjiang Zhi  
 - ORCID: 0009-0004-3176-4764  
-- DOI: [[https://doi.org/10.5281/zenodo.19059200]
+- DOI: https://doi.org/10.5281/zenodo.19059214  
 
 ---
 
-**This article is part of the HanFlow Framework for embodied living.**
+**This article is part of the HanFlow Series on embodied practices for modern life.**
