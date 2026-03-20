@@ -1,6 +1,6 @@
 # What Is Tuina? Traditional Chinese Bodywork Explained
 
-**Title (EN):** What Is Tuina? Traditional Chinese Bodywork Explained  
+**Title:** What Is Tuina? Traditional Chinese Bodywork Explained  
 
 **Author:** Zhenjiang Zhi  
 **Affiliation:** HanFlow Initiative  
