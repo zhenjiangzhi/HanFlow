@@ -83,20 +83,13 @@ It is one system.
 
 ### The Core Cycle
 
-    MOVEMENT (Tai Chi)
-            ↓
-    Awakens the body
-            ↓
-    SELF-TUINA
-            ↓
-    Refines awareness
-            ↓
-    MINDFUL EATING
-            ↓
-    Stabilizes the system
-            ↓
-  (Returns to movement)
+  ### The Core Cycle
 
+> MOVEMENT (Tai Chi) → SELF-TUINA → MINDFUL EATING → (Returns to Movement)
+
+- Movement awakens the body  
+- Touch refines awareness  
+- Nourishment stabilizes the system  
   
 This is not a sequence.
 
