@@ -102,8 +102,6 @@ Rhythm is discovered, not imposed
 
 ### The Rhythm Formula
 
-### The Rhythm Formula
-
 > RHYTHM = REPETITION + CONTRAST + LISTENING
 
 ---
