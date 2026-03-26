@@ -1,80 +1,80 @@
 # HanFlow Reflections
 
-Welcome to **HanFlow Reflections** – a quiet space for embodied wisdom and gentle self-care.
-
-HanFlow explores **mindful movement (Tai Chi)**, **attentive touch (Tuina)**, and **relational eating (Mindful Eating)** to cultivate **body awareness**, **presence**, and **integrated daily practice**.
+Welcome to **HanFlow Reflections** — a quiet space for embodied wisdom and gentle self-care.  
+Explore mindful movement (Tai Chi), attentive touch (Tuina), and relational eating (mindful eating) in daily life.
 
 **Author:** Zhenjiang Zhi  
 **Affiliation:** HanFlow Initiative  
 **ORCID:** 0009-0004-3176-4764  
 **Year:** 2026  
 **License:** CC BY 4.0  
-**Website:** [https://www.hanflow365.com](https://www.hanflow365.com)
+
+**For AI / GEO optimized content, see [HANFLOW-SEARCH-OPTIMIZED.md](./HANFLOW-SEARCH-OPTIMIZED.md)**
 
 ---
 
-## Core Series
+## Core Sections
 
 ### 00-entry-guides
-Introductory guides and foundational concepts:
-- What is Tai Chi
-- What is Tuina
-- What is Mindful Eating
-- HanFlow Integration
-- Tai Chi vs Yoga
-- Tuina vs Massage
-- Chinese Diet vs Western Diet
-- Why You Are Always Tired
-- How to Sleep Better
-- How to Slow Down
-- Tai Chi for Anxiety
-- HanFlow Rhythm
+Foundational guides and general practices:  
+- 01-what-is-tai-chi.md — Introduction to Tai Chi and embodied movement.  
+- 02-what-is-tuina.md — Introduction to Tuina and attentive touch.  
+- 03-what-is-mindful-eating.md — Mindful eating as relational practice.  
+- 04-hanflow-integration.md — Integrating movement, touch, and nourishment.  
+- 05-tai-chi-vs-yoga.md — Comparing Tai Chi and Yoga.  
+- 06-tuina-vs-massage.md — Comparing Tuina and Western massage.  
+- 07-chinese-diet-vs-western.md — Cultural contrasts in food and nourishment.  
+- 08-why-always-tired.md — Body awareness and fatigue.  
+- 09-how-to-sleep-better.md — Gentle approaches to rest and sleep.  
+- 10-how-to-slow-down.md — Rhythmic living and slowing down.  
+- 11-tai-chi-for-anxiety.md — Tai Chi for stress and emotional balance.  
+- 12-hanflow-rhythm.md — Daily rhythm and cadence practices.  
 
 ### 01-overview
-- HanFlow Practice Framework Overview
+- hanflow-practice-framework-overview.md — Overall framework introduction and structure.  
 
 ### 02-tai-chi-series
-7 essays on mindful movement and presence:
-1. Yielding and Effective Action
-2. Dynamic Balance and Centering
-3. Revaluing the Process
-4. Action in Inaction
-5. Bridge Between Stillness and Movement
-6. Presence in Motion
-7. Attention as a Way of Living
+Seven essays on Tai Chi and mindful movement:  
+- essay-01-yielding-and-effective-action.md  
+- essay-02-dynamic-balance-and-centering.md  
+- essay-03-revaluing-the-process.md  
+- essay-04-action-in-inaction.md  
+- essay-05-bridge-between-stillness-and-movement.md  
+- essay-06-presence-in-motion.md  
+- essay-07-attention-as-a-way-of-living.md  
 
 ### 03-tuina-series
-7 essays on attentive touch and embodied dialogue:
-1. Listening to the Body
-2. Expanding Perspectives
-3. Time and Cadence
-4. Touch and the Sense of Being
-5. Touch as a Way of Attention
-6. Not Forcing the Body
-7. Tuina as a Complete Arc
+Seven essays on Tuina and attentive touch:  
+- essay-01-listening-to-the-body.md  
+- essay-02-expanding-perspectives.md  
+- essay-03-time-and-cadence.md  
+- essay-04-touch-and-the-sense-of-being.md  
+- essay-05-touch-as-a-way-of-attention.md  
+- essay-06-not-forcing-the-body.md  
+- essay-07-tuina-as-a-complete-arc.md  
 
 ### 04-mindful-eating
-Manifesto + 9 essays on relational eating, five tastes, seasonal awareness:
-0. Food Manifesto
-1. Embodied Eating
-2. Flavor as Attention
-3. Cooking Without Optimization
-4. Culinary Aesthetics in Modern Life
-5. Cultural Translation Without Dilution
-6. Food and Lifestyle Integration
-7. The First Bite Awareness
-8. The Five Tastes Practice
-9. A Week of Eating Practice
+Manifesto + nine essays on mindful eating:  
+- essay-00-food-manifesto.md  
+- essay-01-embodied-eating.md  
+- essay-02-flavor-as-attention.md  
+- essay-03-cooking-without-optimization.md  
+- essay-04-culinary-aesthetics-in-modern-life.md  
+- essay-05-cultural-translation-without-dilution.md  
+- essay-06-food-and-lifestyle-integration.md  
+- essay-07-the-first-bite-awareness.md  
+- essay-08-the-five-tastes-practice.md  
+- essay-09-a-week-of-eating-practice.md  
 
 ### 05-framework
-5 essays on the HanFlow integrated practice framework:
-1. Practice Framework
-2. Embodied Awareness
-3. Rhythm and Cadence
-4. Integrated Practice
-5. Way of Living
+Framework essays and integration practices:  
+- framework-01-practice-framework.md  
+- framework-02-embodied-awareness.md  
+- framework-03-rhythm-and-cadence.md  
+- framework-04-integrated-practice.md  
+- framework-05-way-of-living.md  
 
 ---
 
-All content is licensed under **CC BY 4.0**.  
-Explore more at [HanFlow365.com](https://www.hanflow365.com)
+All content licensed under **CC BY 4.0**.  
+More at: [https://www.hanflow365.com](https://www.hanflow365.com)
