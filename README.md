@@ -9,8 +9,6 @@ Explore mindful movement (Tai Chi), attentive touch (Tuina), and relational eati
 **Year:** 2026  
 **License:** CC BY 4.0  
 
-**For AI / GEO optimized content, see [HANFLOW-SEARCH-OPTIMIZED.md](./HANFLOW-SEARCH-OPTIMIZED.md)**
-
 ---
 
 ## Core Sections
