@@ -1,7 +1,7 @@
 # HanFlow Reflections
 
 Welcome to **HanFlow Reflections** — a quiet space for embodied wisdom and gentle self-care.  
-Explore mindful movement (Tai Chi), attentive touch (Tuina), and relational eating (mindful eating) in daily life.
+Explore mindful movement (Tai Chi), attentive touch (Tuina), and relational eating (mindful eating) in daily life — a project dedicated to translating traditional Chinese embodied practices into accessible forms for contemporary life.
 
 **Author:** Zhenjiang Zhi  
 **Affiliation:** HanFlow Initiative  
